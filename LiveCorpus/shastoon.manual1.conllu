@@ -471,7 +471,7 @@
 471	на	на	ADP	_	_	472	case	_	words@aas1991m#Shastoon#182.3#182.41
 472	импровизацию	импровизация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	470	obl	_	words@aas1991m#Shastoon#182.41#183.09
 473	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	130	nsubj	_	words@aas1991m#Shastoon#183.2#183.43
-474	прям	прям	PART	_	_	_	words@aas1991m#Shastoon#183.43#183.79
+474	прям	прям	PART	_	_	_	_	_	words@aas1991m#Shastoon#183.43#183.79
 475	готовятся	готовиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	130	conj	_	words@aas1991m#Shastoon#183.79#184.34
 476	то	то	PART	_	_	479	mark	_	words@aas1991m#Shastoon#184.63#184.7
 477	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	476	fixed	_	words@aas1991m#Shastoon#184.7#184.84
